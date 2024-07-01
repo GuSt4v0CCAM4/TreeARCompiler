@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "a022d4e3880f",
+        "mtime": 1719799875773,
+        "size": 139071035,
+        "localPath": "/home/lorsgusty07/TreeARCompiler/Packages/com.ptc.vuforia.engine-10.24.4.tgz"
+      }
+    }
+  }
+}
