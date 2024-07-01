@@ -1,0 +1,7 @@
+PROGRAM    -> STATEMENT*
+STATEMENT  -> 'BST = new' IDENTIFIER ';'
+           | 'insertar' IDENTIFIER '=' NUMBER ';'
+           | 'eliminar' IDENTIFIER '=' NUMBER ';'
+           | 'buscar' IDENTIFIER '=' NUMBER ';'
+IDENTIFIER -> [a-zA-Z_][a-zA-Z0-9_]*
+NUMBER     -> [0-9]+
