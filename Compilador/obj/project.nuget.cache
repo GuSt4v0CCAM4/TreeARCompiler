@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OX4Fwe1c7feewZXuMpSQXmrUe6yTQBf2mks2K2qEEe+j3XQaXkf2ECadLDyH+PGQ0y0lzalZgxX3W4gywXYjGg==",
+  "success": true,
+  "projectFilePath": "/home/teriyakii/Documentos/Compilador/Compilador.csproj",
+  "expectedPackageFiles": [
+    "/home/teriyakii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

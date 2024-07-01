@@ -1,0 +1,14 @@
+/home/teriyakii/Documentos/Compilador/bin/Debug/net8.0/Compilador
+/home/teriyakii/Documentos/Compilador/bin/Debug/net8.0/Compilador.deps.json
+/home/teriyakii/Documentos/Compilador/bin/Debug/net8.0/Compilador.runtimeconfig.json
+/home/teriyakii/Documentos/Compilador/bin/Debug/net8.0/Compilador.dll
+/home/teriyakii/Documentos/Compilador/bin/Debug/net8.0/Compilador.pdb
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.GeneratedMSBuildEditorConfig.editorconfig
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.AssemblyInfoInputs.cache
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.AssemblyInfo.cs
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.csproj.CoreCompileInputs.cache
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.dll
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/refint/Compilador.dll
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.pdb
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/Compilador.genruntimeconfig.cache
+/home/teriyakii/Documentos/Compilador/obj/Debug/net8.0/ref/Compilador.dll
